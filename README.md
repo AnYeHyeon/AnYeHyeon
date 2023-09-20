@@ -17,7 +17,7 @@
    <br/>
  
 #### :pencil2: Study log
-<a href="https://busansudal.tistory.com"><img src="https://img.shields.io/badge/Tistory-#0000?style=flat-square&logo=Tistory&logoColor=red"/></a>
+<a href="https://busansudal.tistory.com"><img src="https://img.shields.io/badge/Tistory-#000000?style=flat-square&logo=Tistory&logoColor=red"/></a>
 
  
   <br/>
