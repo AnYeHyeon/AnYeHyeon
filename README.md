@@ -18,7 +18,6 @@
  
 #### :pencil2: Study log
 
-</a>
 <a href="https://busansudal.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
