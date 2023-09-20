@@ -18,6 +18,8 @@
  
 #### :pencil2: Study log
 [![Tistory's Badge](https://busansudal.tistory.com.vercel.app/api/badge?name={YeHyeon's log})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={YeHyeon's log})](https://github.com/loosie/github-readme-tistory-card)
+
 
  
   <br/>
