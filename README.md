@@ -17,9 +17,7 @@
    <br/>
  
 #### :pencil2: Study log
-<a href="https://busansudal.tistory.com"><img src="https://img.shields.io/badge/Tistory-#000000?style=flat-square&logo=Tistory&logoColor=red"/></a>
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name}&theme={insert_theme})](https://github.com/loosie/github-readme-tistory-card)
-
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={YeHyeon's log}&theme={insert_theme})](https://busansudal.tistory.com)
  
   <br/>
   
