@@ -26,9 +26,11 @@
 </a>
 
  
-  <br/>
+<br/>
   
 [![Yehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnYeHyeon&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/AnYeHyeon/github-readme-stats)
+
+<br/>
 
 ## Publications
 - Yehyeon Ahn*, Seonguk Ju**, Hyerin Uhm***, Jin-hwan Park, Bok-Deuk Song, Chae-Kyu Kim, ”A Study on the Development of an Artificial Intelligence Model for Predicting Coating Lifespan Based on Preliminary Paint Test Data”, 2022년도 한국멀티미디어학회 추계학술발표대회 인공지능 캡스톤 디자인 논문 최우수상
