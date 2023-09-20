@@ -21,7 +21,7 @@
 <br/>
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={YeHyeon's log})](https://github.com/loosie/github-readme-tistory-card)
   <br/>
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={YeHyeon})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=YeHyeon)](https://github.com/loosie/github-readme-tistory-card)
 
 
  
