@@ -18,8 +18,12 @@
  
 #### :pencil2: Study log
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=YeHyeon )](https://github.com/loosie/github-readme-tistory-card)
-
+</a>
+<a href="https://busansudal.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
  
   <br/>
