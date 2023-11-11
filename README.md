@@ -36,10 +36,19 @@
 ## Publications
 - Yehyeon Ahn*, Seonguk Ju**, Hyerin Uhm***, Jin-hwan Park, Bok-Deuk Song, Chae-Kyu Kim, ”A Study on the Development of an Artificial Intelligence Model for Predicting Coating Lifespan Based on Preliminary Paint Test Data”, 2022년도 한국멀티미디어학회 추계학술발표대회 인공지능 캡스톤 디자인 논문 최우수상
 
-- Hyerin Uhm*, Yehyeon Ahn**, Seonguk Ju***, Tae-Gyeong Lee,Yun-Kyung Park, Kyeong-Deok Moon, Chae-Kyu Kim, "Multi-modal Sensory Substitution Study Based on Image and Sound", 2022년도 한국멀티미디어학회
+- Hyerin Uhm*, Yehyeon Ahn**, Seonguk Ju***, Tae-Gyeong Lee,Yun-Kyung Park, Kyeong-Deok Moon, Chae-Kyu Kim, "Multi-modal Sensory Substitution Study Based on Image and Sound", Korean Multimedia Society Conference, 2022
 
-- Seonguk Ju*, Hyerin Uhm**, Yehyeon Ahn***, Jin-hwan Park, Bok-Deuk Song, Chae-Kyu Kim, "A Study on the Development of an AI Model for Accelerated Weather Resistance Diagnosis", 2022년도 한국멀티미디어학회
+- Seonguk Ju*, Hyerin Uhm**, Yehyeon Ahn***, Jin-hwan Park, Bok-Deuk Song, Chae-Kyu Kim, "A Study on the Development of an AI Model for Accelerated Weather Resistance Diagnosis", Korean Multimedia Society Conference, 2022
 
 - 2022 OUTTA AI 부트 캠프 최종 프로젝트 3rd place, 서울대학교 글로벌공학교육센터 및 공학교육혁신센터
 
-- 인공지능실무활용능력 2급 (2022. 05. 27), ITUS
+- Ye-Hyeon Ahn, Seong-Uk Ju, Bu-Hyun Hwang*, Chi Yoon Jeong**, Chae-Kyu Kim***, "Facial Emotion Analysis-based Music Generation for Visual-auditory Sensory Substitution", Korean Multimedia Society Conference, 2023
+- Bu-Hyun Hwang, Ye-Hyeon Ahn, Seong-Uk Ju*, Wook-Ho Son**, Chae-Kyu Kim***, "A new movie experience in the metaverse: A study of the Roblox interactive movie-making system", Korean Multimedia Society Conference, 2023
+- ﻿Seong-Uk Ju*, Bu-Hyun Hwang*, Ye-Hyeon Ahn*, Chi Yoon Jeong**, Chae-Kyu Kim***, "﻿Sensory Substitution Method using Geometric Distance Correction for Person Identification", Korean Multimedia Society Conference, 2023
+
+## Conferences
+1. Korean Multimedia Society Conference, Daejeon, Korea, November 2022. Oral Presentation: "Development of an Artificial Intelligence Model for Predicting Coating Lifetime Based on Preliminary Test Data of Paints".
+
+2. Korean Multimedia Society Conference, Deagu, Korea, November 2023. Presentation: "Facial Emotion Analysis-based Music Generation for Visual-auditory Sensory Substitution"
+
+3. CIIS (Conference on Information and Intelligent Systems), Tokyo, Japan, November 2023 (Upcoming). Poster Presentation: "Developing a News Clipping Automation System Using GPT-3.5".
